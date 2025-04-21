@@ -2,6 +2,8 @@
 
 A Front-end application built with React to help companies track and manage their compliance with Corporate Social Responsibility (CSR) requirements.
 
+The application is available on https://csr-frontend-kappa.vercel.app/
+
 ---
 
 ## 📘 Context
